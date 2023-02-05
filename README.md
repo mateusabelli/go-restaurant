@@ -20,7 +20,7 @@
 ## 👀 Exemplo
 
 ```diff
-import { Component } from "react";
+- import { Component } from "react";
 import { FiPlusSquare } from "react-icons/fi";
 
 import { Container } from "./styles";
